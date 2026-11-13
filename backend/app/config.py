@@ -14,10 +14,12 @@ class Settings(BaseSettings):
     secret_key: str = "change-me"
     database_url: str = "sqlite:///./daddy_is_don.db"
     frontend_url: str = "http://localhost:5173"
+    environment: str = "development"  # set to production when hosted
 
     model_config = SettingsConfigDict(env_file=".env")
 
 
 settings = Settings()
+
 
 
