@@ -2,6 +2,10 @@
 
 **Your AI. Your Conversation. Your World.**
 
+**Live demo:** https://daddy-is-don.vercel.app
+
+*The backend runs on a free plan. If it was asleep, the first load can take up to a minute.*
+
 DADDY IS DON is a ChatGPT-style AI chatbot. It has a dark and light interface, user accounts, and saved chat history. The AI part is a real AI model. There are no fake answers.
 
 This is a portfolio project built with Python (FastAPI) and React.
@@ -159,6 +163,10 @@ The frontend setting `VITE_API_URL` in `frontend/.env` is the address of the bac
 # DADDY IS DON
 
 **Your AI. Your Conversation. Your World.**
+
+**Live demo:** https://daddy-is-don.vercel.app
+
+*The backend runs on a free plan. If it was asleep, the first load can take up to a minute.*
 
 DADDY IS DON is a ChatGPT-style AI chatbot. It has a dark and light interface, user accounts, and saved chat history. The AI part is a real AI model. There are no fake answers.
 
@@ -351,3 +359,4 @@ Deployment instructions will be added here.
 ## Author
 
 Built by Umang Singh.
+
